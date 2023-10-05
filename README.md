@@ -12,7 +12,7 @@ Here I share some results from my personal research project - _Algorithmic Tradi
 
 **_Who am I?_**
 
-I graduated with an MEng from the University of Oxford in 2022 and I have been working as a full-time Software Engineer at since graduation, see my LinkedIn for more details about my career: https://www.linkedin.com/in/enrikmaci/.
+I graduated with an MEng from the University of Oxford in 2022 and I have been working as a full-time Software Engineer since graduation, see my LinkedIn for more details about my career: https://www.linkedin.com/in/enrikmaci/.
 
 **_Why am I doing this?_**
 
