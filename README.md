@@ -22,7 +22,7 @@ All visualisations are generated using the maplotlib module in Python and all si
 
 **_Who am I?_**
 
-
+I graduated with an MEng from the University of Oxford in 2022 and I have been working as a full-time Software Engineer at Microsoft since graduation.
 
 **_Who are you?_**
 
